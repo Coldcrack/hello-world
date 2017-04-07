@@ -1,3 +1,3 @@
 # hello-world
-just another repository
- 
+2017-04-07 
+I joined the GitHub
